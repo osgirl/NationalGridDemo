@@ -1,0 +1,6 @@
+MIDlet-Name: NationalGrid
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: NationlGrid, , com.nutrons.nationalgrid.NationlGrid
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
